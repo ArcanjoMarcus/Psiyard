@@ -94,8 +94,6 @@ function upload_documento() {
                         }, 1500)
                       }, 1500)
                     }, 1500)
-
-                      never_gonna();
                       document.getElementById("guine").style.backgroundColor =
                         "green";
                       document.getElementById("guine").checked = true;
