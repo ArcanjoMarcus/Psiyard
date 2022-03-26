@@ -84,8 +84,8 @@ main .main-item .main-item-content{
     font-size: xx-small;
     color: rebeccapurple;
     animation-name: teste;
-    animation-duration: 1s;
-    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+    animation-duration: 5s;
+    animation-timing-function: cubic-bezier(1, 0.1, 0.1, 1);
     animation-iteration-count: infinite;
 }
 
